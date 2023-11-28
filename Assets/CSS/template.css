@@ -52,7 +52,7 @@ nav a:hover{
     color: #ffff;
 }
 #banner{
-    background-image:url('../image/image_02.jpg');
+    background-image:url('/Assets/Image/image_02.jpg');
     background-position: center;
     background-size: cover;
     height: 670px;
